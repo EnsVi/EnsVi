@@ -18,21 +18,10 @@
 </a>
 </div>
 
-
-<div align="center">
-<h1>Projects</h1>
-Here are some of the projects I've worked on:
-
- [Apex-Adorn Ecommerce Store](https://github.com/cout05/apexadorn-ecommerce-website) <br/>
- [Todo App Mern Stack](https://github.com/cout05/todo-app) <br/>
- [Chirp - Where the Now Meets the Chirp ](https://github.com/cout05/chirp)
- 
-</div>
-
  <div align="center">
 <h1>Contact Me</h1>
    
-[Email me](Vincent bulaclac@gmail.com) <br/>
+[Email me](Vincentbulaclac@gmail.com) <br/>
 [My portfolio](...) <br/>
 [LinkedIn Profile](...) <br/>
 [Facebook Profile](https://www.facebook.com/share/18QBVygBUJ/) <br/>
